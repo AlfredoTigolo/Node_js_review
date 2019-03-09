@@ -1,0 +1,22 @@
+{
+  "name": "node_js_review",
+  "version": "1.0.0",
+  "description": "revinew node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoTigolo/Node_js_review.git"
+  },
+  "author": "Alfredo Tigolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlfredoTigolo/Node_js_review/issues"
+  },
+  "homepage": "https://github.com/AlfredoTigolo/Node_js_review#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
